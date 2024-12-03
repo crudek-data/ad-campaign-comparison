@@ -1,6 +1,9 @@
+# bq
 bq-crudek-data.json
 
-
+# virtual env
+venv_adcamp/
+venv_newad/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
